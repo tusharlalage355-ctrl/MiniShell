@@ -143,19 +143,3 @@ Another challenge was implementing command piping, where the output of one comma
 
 ---
 
-## Future Enhancements
-
-- Command history support
-- Auto-completion
-- Arrow key navigation
-- Input/Output redirection (`>`, `<`, `>>`)
-- Background execution using `&`
-- Environment variable management
-- Improved job scheduling
-
----
-
-
-B.E. Electronics and Telecommunication Engineering
-
-MiniShell Project - Linux System Programming in C
